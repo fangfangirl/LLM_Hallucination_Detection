@@ -183,7 +183,7 @@ Stage1
 
 ### RAGTruth 資料集
 
-本 ZIP 檔 **未附 RAGTruth 資料集**，請自行由官方 GitHub 下載：
+本 github **未附 RAGTruth 資料集**，請自行由官方 GitHub 下載：
 - https://github.com/ParticleMedia/RAGTruth/tree/main/dataset
 
 上述兩個檔案進行下載後請放入 Stage 1 資料夾中並調整路徑。
